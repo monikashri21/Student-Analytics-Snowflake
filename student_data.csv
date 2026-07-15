@@ -1,0 +1,16 @@
+Student_ID,Name,Department,Semester,Attendance_Percent,Marks,Placement_Status
+101,Ananya,ECE,5,92,88,Eligible
+102,Rahul,CSE,5,85,76,Eligible
+103,Monika,Electrical & Computer Engineering,5,96,91,Eligible
+104,Priya,Mechanical,5,78,69,Needs Improvement
+105,Arun,Civil,5,81,73,Eligible
+106,Divya,ECE,5,67,58,Needs Improvement
+107,Karthik,CSE,5,89,84,Eligible
+108,Sneha,Electrical & Computer Engineering,5,74,65,Needs Improvement
+109,Vijay,IT,5,93,95,Eligible
+110,Harini,ECE,5,88,79,Eligible
+111,Sanjay,Mechanical,5,62,55,Needs Improvement
+112,Keerthi,Civil,5,97,94,Eligible
+113,Naveen,CSE,5,83,71,Eligible
+114,Asha,IT,5,76,68,Needs Improvement
+115,Manoj,Electrical & Computer Engineering,5,91,86,Eligible
